@@ -11,11 +11,17 @@ h1 {
 
 }
 h2{
-  font-size:3rem;
+  font-size:2rem;
   color: #DBEDF3;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #DA0463;
 
+}
+h3{
+  font-size:2rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
 }
 
 footer {
